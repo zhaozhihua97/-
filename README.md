@@ -6,7 +6,9 @@
 3. obsidian图片自动上传图床的插件：[GitHub](https://github.com/renmu123/obsidian-image-auto-upload-plugin)
 4. 根据Youtube视频连接，下载字幕、视频的工具：[GitHub](https://github.com/zhaozhihua97/video-downloads)
 5. ai功能合入公众号：[GItHub](https://github.com/pwh-pwh/aiwechat-vercel)
+6. 轻量级的AI证件照制作工具：[GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 # 学习相关
 1. 动手学深度学习：[GitHub](https://github.com/d2l-ai/d2l-zh)
 2. hello 算法：[GitHub](https://github.com/krahets/hello-algo)
 3. pytorch快速入门：[GitHub](https://github.com/zergtant/pytorch-handbook)
+4. 论文内容与代码对照：[GitHub](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
